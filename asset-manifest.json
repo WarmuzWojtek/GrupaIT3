@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/GrupaIT34/static/css/main.42101392.chunk.css",
-    "main.js": "/GrupaIT34/static/js/main.d3a18dff.chunk.js",
-    "main.js.map": "/GrupaIT34/static/js/main.d3a18dff.chunk.js.map",
-    "runtime-main.js": "/GrupaIT34/static/js/runtime-main.935e9b33.js",
-    "runtime-main.js.map": "/GrupaIT34/static/js/runtime-main.935e9b33.js.map",
-    "static/js/2.eee0324e.chunk.js": "/GrupaIT34/static/js/2.eee0324e.chunk.js",
-    "static/js/2.eee0324e.chunk.js.map": "/GrupaIT34/static/js/2.eee0324e.chunk.js.map",
-    "static/js/3.e2df57d0.chunk.js": "/GrupaIT34/static/js/3.e2df57d0.chunk.js",
-    "static/js/3.e2df57d0.chunk.js.map": "/GrupaIT34/static/js/3.e2df57d0.chunk.js.map",
-    "index.html": "/GrupaIT34/index.html",
-    "static/css/main.42101392.chunk.css.map": "/GrupaIT34/static/css/main.42101392.chunk.css.map",
-    "static/js/2.eee0324e.chunk.js.LICENSE.txt": "/GrupaIT34/static/js/2.eee0324e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/GrupaIT34/static/media/forest1920.6c6324d8.jpg",
-    "static/media/card.css": "/GrupaIT34/static/media/quote2.fbb55601.png"
+    "main.css": "/GrupaIT3/static/css/main.56c8051c.chunk.css",
+    "main.js": "/GrupaIT3/static/js/main.d3a18dff.chunk.js",
+    "main.js.map": "/GrupaIT3/static/js/main.d3a18dff.chunk.js.map",
+    "runtime-main.js": "/GrupaIT3/static/js/runtime-main.29654829.js",
+    "runtime-main.js.map": "/GrupaIT3/static/js/runtime-main.29654829.js.map",
+    "static/js/2.eee0324e.chunk.js": "/GrupaIT3/static/js/2.eee0324e.chunk.js",
+    "static/js/2.eee0324e.chunk.js.map": "/GrupaIT3/static/js/2.eee0324e.chunk.js.map",
+    "static/js/3.e2df57d0.chunk.js": "/GrupaIT3/static/js/3.e2df57d0.chunk.js",
+    "static/js/3.e2df57d0.chunk.js.map": "/GrupaIT3/static/js/3.e2df57d0.chunk.js.map",
+    "index.html": "/GrupaIT3/index.html",
+    "static/css/main.56c8051c.chunk.css.map": "/GrupaIT3/static/css/main.56c8051c.chunk.css.map",
+    "static/js/2.eee0324e.chunk.js.LICENSE.txt": "/GrupaIT3/static/js/2.eee0324e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/GrupaIT3/static/media/forest1920.6c6324d8.jpg",
+    "static/media/card.css": "/GrupaIT3/static/media/quote2.fbb55601.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.935e9b33.js",
+    "static/js/runtime-main.29654829.js",
     "static/js/2.eee0324e.chunk.js",
-    "static/css/main.42101392.chunk.css",
+    "static/css/main.56c8051c.chunk.css",
     "static/js/main.d3a18dff.chunk.js"
   ]
 }
